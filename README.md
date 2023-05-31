@@ -1,5 +1,10 @@
 # kelompok_gk_teras
 
+Anggota Kelompok
+- Abdul Holik
+- Aprisca Rexza Pamungkas
+- Muhammad Izdihar
+
 Model Blender yang dibuat adalah teras kampus Gunadarma
 
 List Gambar
