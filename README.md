@@ -8,7 +8,7 @@ Anggota Kelompok
 Model Blender yang dibuat adalah teras kampus Gunadarma
 
 List Gambar
-- Non Color.png : screenshot model 3d tanpa tekstur
+- nocolor.png : screenshot model 3d tanpa tekstur
 - referensi.jpeg : referensi pembuatan model 3d
 - render.png : hasil rendering model 3d
 - textures(file) : berisi tekstur yang digunakan pada model 3d
@@ -19,4 +19,4 @@ File Blender
 
 ![referensi](referensi.jpeg)
 ![render](render.png)
-![Non Color](Non Color.png)
+![No Color](nocolor.png)
