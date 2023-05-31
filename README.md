@@ -16,3 +16,7 @@ List Gambar
 File Blender
 - Teras.blend (file utama)
 - Teras.blend1 (backup)
+
+![referensi](referensi.jpeg)
+![render](render.png)
+![Non Color](Non Color.png)
