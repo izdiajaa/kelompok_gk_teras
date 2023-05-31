@@ -17,6 +17,13 @@ File Blender
 - Teras.blend (file utama)
 - Teras.blend1 (backup)
 
+Referensi
 ![referensi](referensi.jpeg)
-![render](render.png)
+
+Tanpa Warna
 ![No Color](nocolor.png)
+
+Hasil Render
+![render](render.png)
+
+
