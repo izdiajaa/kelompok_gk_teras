@@ -1,5 +1,7 @@
 # kelompok_gk_teras
 
+Model Blender yang dibuta adalah teras kampus Gunadarma
+
 List Gambar
 - Non Color.png : screenshot model 3d tanpa tekstur
 - referensi.jpeg : referensi pembuatan model 3d
